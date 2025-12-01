@@ -23,3 +23,10 @@ As tabelas foram criadas com base no modelo lógico da escola de basquete Elite 
 1. Abra o MySQL Workbench  
 2. Crie um schema (database)  
 3. Execute:
+SOURCE create_tables.sql;
+SOURCE insert_data.sql;
+SOURCE select_queries.sql;
+SOURCE updates.sql;
+SOURCE deletes.sql;
+
+Gabriel Nascimento Fontes / Análise e Desenvolvimento de Sistemas
