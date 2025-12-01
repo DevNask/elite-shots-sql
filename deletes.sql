@@ -1,0 +1,8 @@
+DELETE FROM PRESENCA
+WHERE id_presenca = 2;
+
+DELETE FROM AVISO_RESPONSAVEL
+WHERE id_aviso = 1 AND id_responsavel = 2;
+
+DELETE FROM ALUNO
+WHERE id_aluno = 2;
